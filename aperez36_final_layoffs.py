@@ -4,6 +4,7 @@ import altair as alt
 import numpy as np
 import pandas as pd 
 from datetime import datetime
+import plotly.express as px
 
 #title 
 st.title('2022 layoff Data')
